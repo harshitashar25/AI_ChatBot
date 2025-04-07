@@ -1,5 +1,5 @@
 // Use API key approach (OAuth is more complex for this use case)
-const API_KEY = 'AIzaSyB1pjs6rSBHt7yNCBVoHWB-UnXX3LUNDNk';
+const API_KEY = '{your api key}';
 
 export async function queryAIStudio(prompt, context = {}) {
     try {
