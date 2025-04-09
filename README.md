@@ -1,6 +1,6 @@
-# Emotivox 2.0
+# AICHATBOT
 
-**Emotivox 2.0** is a web-based AI-powered chatbot that interacts with users through text and image inputs. The chatbot uses **Google's Gemini 1.5 Pro API** to provide intelligent responses and can process screenshots or images to better understand user queries.
+**CHATBOT** is a web-based AI-powered chatbot that interacts with users through text and image inputs. The chatbot uses **Google's Gemini 1.5 Pro API** to provide intelligent responses and can process screenshots or images to better understand user queries.
 
 ---
 
